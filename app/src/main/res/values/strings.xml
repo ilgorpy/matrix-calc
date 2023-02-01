@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Matrix Calc</string>
+    <string name="info">INFO</string>
+    <string name="matrix_a">Matrix A</string>
+    <string name="matrix_b">Matrix B</string>
+    <string name="n">Число(N)</string>
+    <string name="CLEAR">Очистить</string>
+    <string name="Сохранить">Сохранить</string>
+    <string name="a_b">A + B</string>
+    <string name="a__b">A - B</string>
+    <string name="a___b">A * B</string>
+    <string name="a____n">A * n</string>
+    <string name="t">T</string>
+    <string name="вывод">вывод</string>
+    <string name="random">Random</string>
+    <string name="a_n">A * N</string>
+    <string name="t_a">T(A)</string>
+    <string name="det_a">det(A)</string>
+    <string name="b_n">B * N</string>
+    <string name="t_b">T(B)</string>
+    <string name="det_b">det(B)</string>
+    <string name="invert_a">invert(A)</string>
+    <string name="invert_b">invert(b)</string>
+    <string name="clear">Очистить</string>
+    <string name="n1">Введите число (N)</string>
+    <string name="n2">Введите число (N):</string>
+    <string name="rank_a">rank(A)</string>
+    <string name="rank_b">rank(B)</string>
+    <string name="a_a">A + A</string>
+    <string name="a_a_">A * A</string>
+</resources>

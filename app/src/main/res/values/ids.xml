@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextNumberB21" type="id"/>
+    <item name="editTextNumberB11" type="id" />
+    <item name="editTextNumberB23" type="id" />
+    <item name="editTextNumberB12" type="id" />
+    <item name="editTextNumberB13" type="id" />
+    <item name="editTextNumberB31" type="id" />
+    <item name="editTextNumberB32" type="id" />
+    <item name="editTextNumberB33" type="id" />
+</resources>
